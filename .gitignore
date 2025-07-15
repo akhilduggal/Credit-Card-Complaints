@@ -1,0 +1,13 @@
+# macOS system files
+.DS_Store
+
+# Power BI or Tableau autosaves (if any)
+*.twbx.autosave
+*.pbix.autosave
+
+# Jupyter or Python (if used)
+__pycache__/
+.ipynb_checkpoints/
+
+# VS Code settings
+.vscode/
