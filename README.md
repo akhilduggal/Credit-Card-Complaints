@@ -23,5 +23,5 @@ See `credit_complaints.sql` for details.
 ## 📁 Contents
 - `credit_complaints.sql` – Data preparation script  
 - `complaints.csv` – Source dataset  
-- `ComplaintsDashboard.twbx` – Packaged Tableau workbook  
+- `ComplaintsDashboard.twbx` – Tableau workbook  
 - `dashboard_screenshot.png` – Dashboard preview  
